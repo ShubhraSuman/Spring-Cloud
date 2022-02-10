@@ -16,5 +16,15 @@
   <li> Java 
   <li> MySql WorkBench
   <li> Spring 
-  <li> Postman
-<ol>
+  <li> Postman <ol>
+ 
+## **UseCase**
+![image](https://user-images.githubusercontent.com/53232818/153456430-3cab3ef6-7cc6-4759-b253-5c5bc7865cd8.png)
+    
+ ## **Project Description**
+ <ul>
+   <li> We have created two microservice named Product and Coupon serivce </li>
+   <li> These two services will expose out restful API. Which will allow end user to create a product and apply coupon code</li>
+   <li> Product service will be responsible for creating product in DB along with price and description </li>
+   <li> Coupon service will be responsible for generating coupon code for a particular product </li>
+   <ul>
