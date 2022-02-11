@@ -19,8 +19,7 @@
   <li> Postman <ol>
  
 ## **UseCase**
-<img src = https://user-images.githubusercontent.com/53232818/153650611-2fb1eae5-38e6-400b-80c9-2b28fe544100.png>
-
+<img src = https://user-images.githubusercontent.com/53232818/153650834-e2aa0289-786b-4584-8ff8-db7513227e38.png>
     
  ## **Project Description**
  <ul>
